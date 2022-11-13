@@ -1,3 +1,0 @@
-Give the name of the managers whose nationality is different from country of the team they are preparing.
-π first_name, last_name(managers ⨝ (managers.nationality != teams.country) teams)
-
