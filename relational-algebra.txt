@@ -1,4 +1,4 @@
 1. How did Cristiano Ronaldo scored his goals during the 2017-2018 season?
-π goal_description(goals ⨝ σ first_name = 'Cristiano' ∧ last_name = 'Ronaldo'(players) ⨝ σ season = 2017-2018)
+π goal_description(goals ⨝ σ first_name = 'Cristiano' ∧ last_name = 'Ronaldo'(players) ⨝ σ season = '2017-2018'(matches))
 
 2. 
