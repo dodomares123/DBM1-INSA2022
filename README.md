@@ -1,6 +1,6 @@
 # DBM1-INSA2022
 
-This is the repository used to organized and build our DBM1: Databases and Data Mining project as part of Riccardo Tommassini's class at INSA Lyon.
+This is the repository used to organize and build our DBM1: Databases and Data Mining project as part of Riccardo Tommassini's class at INSA Lyon.
 
 We retrieved the dataset of our project from kaggle: https://www.kaggle.com/datasets/cbxkgl/uefa-champions-league-2016-2022-data
 
